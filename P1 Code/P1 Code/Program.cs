@@ -16,7 +16,7 @@ namespace P1_Code
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormHelloWorld());
+            Application.Run(new Form1());
         }
     }
 }

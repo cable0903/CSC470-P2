@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace P1_Code
 {
-    public partial class FormHelloWorld : Form
+    public partial class Form1 : Form
     {
-        public FormHelloWorld()
+        public Form1()
         {
             InitializeComponent();
         }
@@ -24,7 +24,7 @@ namespace P1_Code
 
         private void exit_button_Click(object sender, EventArgs e)
         {
-
+            Close();
         }
     }
 }

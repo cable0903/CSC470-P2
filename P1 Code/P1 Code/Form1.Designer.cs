@@ -1,6 +1,6 @@
 ﻿namespace P1_Code
 {
-    partial class FormHelloWorld
+    partial class Form1
     {
         /// <summary>
         /// Required designer variable.
@@ -37,7 +37,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 70F);
             this.label1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.label1.Location = new System.Drawing.Point(23, 38);
+            this.label1.Location = new System.Drawing.Point(149, 101);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(529, 107);
@@ -47,9 +47,8 @@
             // exit_button
             // 
             this.exit_button.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.exit_button.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.exit_button.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.exit_button.Location = new System.Drawing.Point(369, 171);
+            this.exit_button.Location = new System.Drawing.Point(698, 472);
             this.exit_button.Name = "exit_button";
             this.exit_button.Size = new System.Drawing.Size(149, 50);
             this.exit_button.TabIndex = 1;
@@ -57,16 +56,15 @@
             this.exit_button.UseVisualStyleBackColor = false;
             this.exit_button.Click += new System.EventHandler(this.exit_button_Click);
             // 
-            // FormHelloWorld
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.CancelButton = this.exit_button;
-            this.ClientSize = new System.Drawing.Size(574, 355);
+            this.ClientSize = new System.Drawing.Size(1034, 645);
             this.Controls.Add(this.exit_button);
             this.Controls.Add(this.label1);
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.Name = "FormHelloWorld";
+            this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CSC 470 - P1";
             this.Load += new System.EventHandler(this.Form1_Load);
