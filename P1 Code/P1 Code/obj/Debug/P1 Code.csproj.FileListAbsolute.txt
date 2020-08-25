@@ -8,3 +8,13 @@ C:\Users\sjhuo\Desktop\software development\P1 Code\P1 Code\obj\Debug\P1 Code.cs
 C:\Users\sjhuo\Desktop\software development\P1 Code\P1 Code\obj\Debug\P1 Code.csproj.CoreCompileInputs.cache
 C:\Users\sjhuo\Desktop\software development\P1 Code\P1 Code\obj\Debug\P1 Code.exe
 C:\Users\sjhuo\Desktop\software development\P1 Code\P1 Code\obj\Debug\P1 Code.pdb
+C:\Users\DSU\Source\Repos\csc470T13_gp1\P1 Code\P1 Code\bin\Debug\P1 Code.exe.config
+C:\Users\DSU\Source\Repos\csc470T13_gp1\P1 Code\P1 Code\bin\Debug\P1 Code.exe
+C:\Users\DSU\Source\Repos\csc470T13_gp1\P1 Code\P1 Code\bin\Debug\P1 Code.pdb
+C:\Users\DSU\Source\Repos\csc470T13_gp1\P1 Code\P1 Code\obj\Debug\P1 Code.csprojAssemblyReference.cache
+C:\Users\DSU\Source\Repos\csc470T13_gp1\P1 Code\P1 Code\obj\Debug\P1_Code.Form1.resources
+C:\Users\DSU\Source\Repos\csc470T13_gp1\P1 Code\P1 Code\obj\Debug\P1_Code.Properties.Resources.resources
+C:\Users\DSU\Source\Repos\csc470T13_gp1\P1 Code\P1 Code\obj\Debug\P1 Code.csproj.GenerateResource.cache
+C:\Users\DSU\Source\Repos\csc470T13_gp1\P1 Code\P1 Code\obj\Debug\P1 Code.csproj.CoreCompileInputs.cache
+C:\Users\DSU\Source\Repos\csc470T13_gp1\P1 Code\P1 Code\obj\Debug\P1 Code.exe
+C:\Users\DSU\Source\Repos\csc470T13_gp1\P1 Code\P1 Code\obj\Debug\P1 Code.pdb
