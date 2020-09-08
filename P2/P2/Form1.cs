@@ -17,10 +17,16 @@ namespace P2
             InitializeComponent();
         }
 
-        Form2 secondForm = new Form2();
         private void button1_Click(object sender, EventArgs e)
         {
-            secondForm.ShowDialog();
+            string dialogParam = "test";
+            Form2 secondForm = new Form2(dialogParam);
+            DialogResult result = secondForm.ShowDialog();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

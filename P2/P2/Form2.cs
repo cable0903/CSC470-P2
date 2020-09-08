@@ -12,9 +12,16 @@ namespace P2
 {
     public partial class Form2 : Form
     {
-        public Form2()
+        public string dialogResult;
+        public Form2(string dialogParam)
         {
             InitializeComponent();
+            dialogResult = dialogParam;
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
