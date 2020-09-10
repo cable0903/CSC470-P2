@@ -19,3 +19,14 @@ C:\Users\storm\Source\Repos\cable0903\CSC470-P2\P2\P2\obj\Debug\P2.csproj.Genera
 C:\Users\storm\Source\Repos\cable0903\CSC470-P2\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
 C:\Users\storm\Source\Repos\cable0903\CSC470-P2\P2\P2\obj\Debug\P2.exe
 C:\Users\storm\Source\Repos\cable0903\CSC470-P2\P2\P2\obj\Debug\P2.pdb
+C:\Users\DSU\Source\Repos\cable0903\CSC470-P2\P2\P2\bin\Debug\P2.exe.config
+C:\Users\DSU\Source\Repos\cable0903\CSC470-P2\P2\P2\bin\Debug\P2.exe
+C:\Users\DSU\Source\Repos\cable0903\CSC470-P2\P2\P2\bin\Debug\P2.pdb
+C:\Users\DSU\Source\Repos\cable0903\CSC470-P2\P2\P2\obj\Debug\P2.csprojAssemblyReference.cache
+C:\Users\DSU\Source\Repos\cable0903\CSC470-P2\P2\P2\obj\Debug\P2.Form1.resources
+C:\Users\DSU\Source\Repos\cable0903\CSC470-P2\P2\P2\obj\Debug\P2.Form2.resources
+C:\Users\DSU\Source\Repos\cable0903\CSC470-P2\P2\P2\obj\Debug\P2.Properties.Resources.resources
+C:\Users\DSU\Source\Repos\cable0903\CSC470-P2\P2\P2\obj\Debug\P2.csproj.GenerateResource.cache
+C:\Users\DSU\Source\Repos\cable0903\CSC470-P2\P2\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+C:\Users\DSU\Source\Repos\cable0903\CSC470-P2\P2\P2\obj\Debug\P2.exe
+C:\Users\DSU\Source\Repos\cable0903\CSC470-P2\P2\P2\obj\Debug\P2.pdb
